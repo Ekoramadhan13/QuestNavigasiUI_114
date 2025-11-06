@@ -1,4 +1,4 @@
-ackage com.example.navigasi
+package com.example.navigasi
 
 import androidx.compose.foundation.layout.padding
 import androidx.compose.material3.Scaffold
